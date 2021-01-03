@@ -1,0 +1,4 @@
+.idea/
+artifacts/
+build/
+cmake-build-debug/
